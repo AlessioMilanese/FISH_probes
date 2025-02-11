@@ -7,7 +7,7 @@ Given a clade, it identifies sequences (of a given length) that belong to that a
 Pre-requisites
 --------------
 
-The mOTU profiler requires:
+The tool requires:
 * Python 3 (or higher)
 
 
